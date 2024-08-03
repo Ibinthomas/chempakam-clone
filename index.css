@@ -1,0 +1,30 @@
+.topbar{
+    height: 25px;
+    padding-top: 10px;
+    background-color: rgb(225, 202, 202);   
+}
+.logo{
+    background-color: rgb(0, 0, 0);
+    padding-left: 100px;
+}
+
+.nvbar{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    
+}
+li{
+    float: left;
+    padding-left: 100px;
+    padding-top: 15px;
+    
+}
+li a {
+    display: block;
+    color: #f7f7f7;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
